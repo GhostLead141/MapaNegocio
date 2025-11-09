@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mapa</string>
+
+    <string-array name="services_array">
+        <item>Almacén</item>
+        <item>Ferretería</item>
+        <item>Verdulería</item>
+        <item>Taller de bicicletas</item>
+        <item>Servicio técnico</item>
+    </string-array>
+</resources>
